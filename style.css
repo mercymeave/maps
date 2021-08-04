@@ -1,0 +1,46 @@
+body {
+    color: #02a86b;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  }
+  
+  .fa-map-marker-alt,
+  .fa-dot-circle {
+    color: #02a86b;
+  }
+  
+  /*Jumbotron*/
+  .jumbotron {
+    background-color: transparent;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .jumbotron h1 {
+    letter-spacing: 1.5px;
+    font-size: 3.5em;
+    font-weight: bold;
+  }
+  
+  .jumbotron h1,
+  .jumbotron p {
+    text-align: center;
+  }
+  
+  /*map*/
+  #googleMap {
+    /* background-color: red; */
+    width: 80%;
+    height: 400px;
+    margin: 10px auto;
+  }
+  
+  /*output box*/
+  #output {
+    text-align: center;
+    font-size: 2em;
+    margin: 20px auto;
+  }
+  
+  #mode {
+    color: black;
+  }
